@@ -73,7 +73,7 @@ Display using **Gradio** interface.
 
 
 
-
+## You can check my code on Kaggle: [Code](https://www.kaggle.com/code/abdullahalnemr/dense-retriever-sbert/notebook)
 
 
 
